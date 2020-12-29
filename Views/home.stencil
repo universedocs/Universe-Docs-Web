@@ -1,0 +1,15 @@
+<html>
+<head>
+<link rel="stylesheet" href="/stylesheets/home.css">
+</head>
+<body>
+<div class="homeBackground">
+<div class="caption">
+<span class="title">Welcome to Universe Docs!</span><br>
+<span class="subtitle">Contains all the documents you need in this Universe!</span><br>
+<span class="subtitle">Contact through E-Mail: <a href="mailto:support@universedocs.com">support@universedocs.com</a> </span>
+</div>
+</div>
+</body>
+</html>
+
