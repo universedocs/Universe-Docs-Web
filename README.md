@@ -9,6 +9,8 @@ The website should behave like a native application!
 
 This web service listens in one port and "Universe Docs Brain" listens in another port!
 
+Both company and application website done through this. So we need to have two ports one for company web pages and another for application web pages!
+
 Software:
 1. Bootstrap / Whatever PWA latest and best one
 2. Swift
