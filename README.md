@@ -9,7 +9,10 @@ The website should behave like a native application!
 
 This web service listens in one port and "Universe Docs Brain" listens in another port!
 
-Software requirements:
+Software:
 1. Bootstrap / Whatever PWA latest and best one
 2. Swift
 3. Kitura
+
+Hardware:
+1. Mac/Ubuntu (Linux)
